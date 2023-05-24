@@ -1,4 +1,4 @@
-### Hello! 👋 My name is Alicja
+# Hello! 👋 My name is Alicja
 
 ## 💬 About me
 - 19 years old
