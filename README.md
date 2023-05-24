@@ -2,7 +2,7 @@
 
 ## 💬 About me
 - 19 years old
-- Stusying Computer Science at University of St Andrews
+- Studying Computer Science at University of St Andrews
 
 ## 📚 Learning
 - Developing my own website
