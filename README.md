@@ -5,8 +5,8 @@
 - Studying Computer Science at University of St Andrews
 
 ## 📚 Learning
-- Web Development
-- Haskell
-- C
+- Low-Level Programming
+- C, Assembly & Haskell
+
 
 ## 💻 Current project(s)
